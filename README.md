@@ -5,10 +5,10 @@
  
 ## I'm Lucas!
  
-… 👱 Sou Lucas Souza, campineiro, desenvolvedor Front-end em formação e sempre em busca de novas oportunidades.
-🎓 Atualmente curso Análise e Desenvolvimento de Sistemas no Instituto Federal de Educação, Ciência e Tecnologia de São Paulo.
-📚 Tenho me dedicado a estudar desenvolvimento Web, utilizando as tecnologias: HTML5, CSS3, JavaScript, ReactJs e NextJs. Além disso tenho estudado mais a fundo sobre a linguagem Python, para utilizá-la em automações de processos financeiros.
-🤓 Ademais tabém possuo conhecimento das linguagens C e C#, e iniciei neste semestre o aprendizado em Java, utilizando todas com integrações em banco de dados no MySQL Workbench.
+<p> 👱 Sou Lucas Souza, campineiro, desenvolvedor Front-end em formação e sempre em busca de novas oportunidades. </p>
+<p> 🎓 Atualmente curso Análise e Desenvolvimento de Sistemas no Instituto Federal de Educação, Ciência e Tecnologia de São Paulo. </p>
+<p> 📚 Tenho me dedicado a estudar desenvolvimento Web, utilizando as tecnologias: HTML5, CSS3, JavaScript, ReactJs e NextJs. Além disso tenho estudado mais a fundo sobre a linguagem Python, para utilizá-la em automações de processos financeiros. </p>
+<p> 🤓 Ademais tabém possuo conhecimento das linguagens C e C#, e iniciei neste semestre o aprendizado em Java, utilizando todas com integrações em banco de dados no MySQL Workbench. </p>
  
  
 ## About me 
@@ -19,4 +19,4 @@
  
 - Thanks for visiting!
  
-- Enjoy it!! o/
+- Enjoy it!! 

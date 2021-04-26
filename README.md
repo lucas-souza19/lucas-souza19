@@ -3,7 +3,7 @@
  
 # Welcome!
  
-## I'm Lucas!
+## Olá, me chamo Lucas!
  
 <p> 👱 Sou Lucas Souza, campineiro, desenvolvedor Front-end em formação e sempre em busca de novas oportunidades. </p>
 <p> 🎓 Atualmente curso Análise e Desenvolvimento de Sistemas no Instituto Federal de Educação, Ciência e Tecnologia de São Paulo. </p>
@@ -19,4 +19,4 @@
  
 - Thanks for visiting!
  
-- Enjoy it!! 
+ 
